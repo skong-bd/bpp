@@ -4,12 +4,12 @@
     "threads_count": 1
   },
   "server": {
-    "host": "localhost",
+    "host": "127.0.0.1",
     "port": 3000,
     "api_key": "placeholder"
   },
   "redis": {
-    "url": "localhost",
+    "url": "127.0.0.1",
     "user": "",
     "password": "abcd1234",
     "port": 6379,
@@ -27,7 +27,7 @@
   "metrics": {
     "enabled": true,
     "type": "udp",
-    "address": "localhost",
+    "address": "127.0.0.1",
     "port": 8094,
     "max_payload_size": 512,
     "flush_data_interval": 60
