@@ -8,7 +8,7 @@
     "secret_access_key": ""
   },
   "redis": {
-    "url": "0.0.0.0",
+    "url": "127.0.0.1",
     "user": "",
     "password": "abcd1234",
     "port": 6379,
@@ -23,7 +23,7 @@
     "consume_timeout": 5
   },
   "mongo_database": {
-    "url": "mongodb://root:password@0.0.0.0:27017/admin",
+    "url": "mongodb://root:password@127.0.0.1:27017/admin",
     "options": {
       "read_preference": "secondaryPreferred",
       "max_pool_size": 10,
@@ -36,7 +36,7 @@
   "metrics": {
     "enabled": true,
     "type": "udp",
-    "address": "0.0.0.0",
+    "address": "127.0.0.1",
     "port": 8094,
     "max_payload_size": 512,
     "flush_data_interval": 60
