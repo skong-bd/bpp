@@ -1,0 +1,52 @@
+{
+    "company_id": "66b2bca031736eb0be04c006",
+    "cloud_provider": "aws",
+    "cloud_account": "014762482633",
+    "file_paths": [
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/apigateway_rest_api_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/cloudfront_distribution_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_instance_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_network_acl_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_network_interface_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_route_table_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_security_group_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_subnet_resources.json"
+        },
+        {
+            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/vpc_vpc_resources.json"
+        }
+    ]
+}
