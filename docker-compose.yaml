@@ -1,0 +1,25 @@
+services:
+  redis_server:
+    image: bitnami/redis:latest
+    container_name: redis_server
+    networks:
+      - custom-network
+    ports:
+      - 6379:6379
+    environment:
+      REDIS_PASSWORD: abcd1234
+
+  bpp_api:
+    image: bpp:latest
+    container_name: bpp_api
+    networks:
+      - custom-network
+    ports:
+      - 3000:3000
+    environment:
+      REDIS_PASSWORD: abcd1234
+    platform: linux/amd64
+
+networks:
+  custom-network:
+    driver: bridge

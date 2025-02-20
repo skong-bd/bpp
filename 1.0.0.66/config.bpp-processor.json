@@ -1,0 +1,51 @@
+{
+  "runtime": {
+    "multithreaded": false,
+    "threads_count": 1
+  },
+  "breach_reports_credentials": {
+    "access_key_id": "",
+    "secret_access_key": ""
+  },
+  "redis": {
+    "url": "0.0.0.0",
+    "user": "",
+    "password": "abcd1234",
+    "port": 6379,
+    "connection_count": 10
+  },
+  "redis_queues": {
+    "cloud_raw_data_notification_queue": "bpp.api.cloud_raw_data_notification",
+    "cloud_reports_main": "bpp.processor.cloud_reports.main",
+    "cloud_reports_company_prefix": "bpp.processor.cloud_reports.",
+    "breach_generation_main": "bpp.processor.breach_generation.main",
+    "breach_generation_output": "bpp.processor.breach_generation.output",
+    "consume_timeout": 5
+  },
+  "mongo_database": {
+    "url": "mongodb://root:password@0.0.0.0:27017/admin",
+    "options": {
+      "read_preference": "secondaryPreferred",
+      "max_pool_size": 10,
+      "connect_timeout_ms": 0,
+      "socket_timeout_ms": 0,
+      "w": 1,
+      "application_name": "BPP-Processor"
+    }
+  },
+  "metrics": {
+    "enabled": true,
+    "type": "udp",
+    "address": "0.0.0.0",
+    "port": 8094,
+    "max_payload_size": 512,
+    "flush_data_interval": 60
+  },
+  "logger": {
+    "level": "Info",
+    "file_path": "bpp-processor.log"
+  },
+  "internal_settings": {
+    "write_raw_data_reports_on_disk": true
+  }
+}

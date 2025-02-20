@@ -1,0 +1,38 @@
+{
+  "runtime": {
+    "multithreaded": false,
+    "threads_count": 1
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 3000
+  },
+  "redis": {
+    "url": "0.0.0.0",
+    "user": "",
+    "password": "",
+    "port": 6379,
+    "connection_count": 10
+  },
+  "redis_queues": {
+    "consume_timeout": 5
+  },
+  "tls": {
+    "enabled": false,
+    "certificate": "",
+    "key": ""
+  },
+  "metrics": {
+    "enabled": true,
+    "type": "udp",
+    "address": "0.0.0.0",
+    "port": 8094,
+    "max_payload_size": 512,
+    "flush_data_interval": 60
+  },
+  "logger": {
+    "level": "Info",
+    "file_path": "bpp-api.log"
+  },
+  "internal_settings": {}
+}
