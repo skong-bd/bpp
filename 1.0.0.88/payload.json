@@ -1,0 +1,72 @@
+{
+    "company_id": "123456789012345678901234",
+    "cloud_provider": "aws",
+    "cloud_account": "829960215233",
+    "file_paths": [
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/apigateway_rest_api_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/cloudfront_distribution_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_instance_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_network_acl_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_network_interface_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_route_table_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_security_group_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/ec2_subnet_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/elb_classic_load_balancer_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/elb_v2_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/elbv2_target_group_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/vpc_internet_gateway_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/02/26/fccefa00-95ed-49d3-aa92-bc58d1681c10/vpc_vpc_resources.json"
+        }
+    ]
+}

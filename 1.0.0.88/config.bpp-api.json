@@ -1,0 +1,45 @@
+{
+  "runtime": {
+    "multithreaded": false,
+    "threads_count": 1
+  },
+  "server": {
+    "host": "127.0.0.1",
+    "port": 3000,
+    "api_key": "placeholder"
+  },
+  "redis": {
+    "url": "127.0.0.1",
+    "user": "",
+    "password": "abcd1234",
+    "port": 6379,
+    "connection_count": 10
+  },
+  "redis_queues": {
+    "cloud_raw_data_notification_queue": "bpp.api.cloud_raw_data_notification",
+    "consume_timeout": 5
+  },
+  "tls": {
+    "enabled": false,
+    "certificate": "",
+    "key": ""
+  },
+  "metrics": {
+    "enabled": true,
+    "type": "udp",
+    "address": "localhost",
+    "port": 8094,
+    "max_payload_size": 512,
+    "flush_data_interval": 60,
+    "enable_system": true,
+    "flush_system_metrics_interval": 5,
+    "metric_type": 1
+  },
+  "logger": {
+    "level": "Info",
+    "file_path": "bpp-api.log"
+  },
+  "internal_settings": {
+    "enable_documentation": true
+  }
+}
