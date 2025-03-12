@@ -1,52 +1,72 @@
 {
-    "company_id": "66b2bca031736eb0be04c006",
+    "company_id": "123456789012345678901234",
     "cloud_provider": "aws",
-    "cloud_account": "014762482633",
+    "cloud_account": "829960215233",
     "file_paths": [
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/apigateway_rest_api_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/apigateway_rest_api_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/cloudfront_distribution_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/cloudfront_distribution_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_instance_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_instance_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_network_acl_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_network_acl_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_network_interface_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_network_interface_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_route_table_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_route_table_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_security_group_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_security_group_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/ec2_subnet_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/ec2_subnet_resources.json"
         },
         {
-            "s3_bucket_name": "devtiffanygzwiamdatapipel-attackpathresourceextrac-byysnatk4gyx",
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
             "s3_bucket_region": "us-east-1",
-            "s3_object_key": "abcd1234/2025/1/22/0d0da1cf-adce-414a-955b-bce4590355b7/vpc_vpc_resources.json"
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/elb_classic_load_balancer_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/elb_v2_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/elbv2_target_group_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/vpc_internet_gateway_resources.json"
+        },
+        {
+            "s3_bucket_name": "devus1gzwiamdatapipelines-attackpathresourceextrac-ogaa23qvgypt",
+            "s3_bucket_region": "us-east-1",
+            "s3_object_key": "123456789012345678901234/2025/03/11/bf685a6c-146b-4e0b-8a2d-42b8f419cb3a/vpc_vpc_resources.json"
         }
     ]
 }
