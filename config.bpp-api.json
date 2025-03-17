@@ -8,6 +8,17 @@
     "port": 3000,
     "api_key": "placeholder"
   },
+  "mongo_devdb_replica_set": {
+    "url": "mongodb://localhost:27017/admin",
+    "options": {
+      "read_preference": "secondaryPreferred",
+      "max_pool_size": 10,
+      "connect_timeout_ms": 0,
+      "socket_timeout_ms": 0,
+      "w": 1,
+      "application_name": "BPP-API"
+    }
+  },
   "redis": {
     "url": "0.0.0.0",
     "user": "",
@@ -40,6 +51,7 @@
     "file_path": "bpp-api.log"
   },
   "internal_settings": {
-    "enable_documentation": true
+    "enable_documentation": true,
+    "bypass_breach_path_license": true
   }
 }
